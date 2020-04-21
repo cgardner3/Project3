@@ -5,9 +5,20 @@
   <title>Google API Map</title>
   <link rel="stylesheet" type="text/css" href="style.css">
   <link rel="stylesheet" type="text/css" href="cssreset.css">
-  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAhYwmfmrxOibTE348wQOE8ydVsRxqa8Fg&callback=initMap" async defer></script>
   <script src="js/script.js" async defer></script>
+  <meta name="viewport" content="initial-scale=1.0">
 </head>
 
-<body id="mapBackground">
+<body>
   <nav id="navigation">
+  <ul>
+	  <li><a href="index.html"> Resume</a></li>
+	  <li><a href="page1.html">Fanpage</a></li>
+	  <li><a href="page2.html">Soccer(IIT)</a></li>
+	  <li><a href="googlemaps.html">GMap</a></li>
+	</ul>
+	</nav>
+  <div id="map"></div>
+  <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAhYwmfmrxOibTE348wQOE8ydVsRxqa8Fg&callback=initMap"></script>
+</body>
+</html>
