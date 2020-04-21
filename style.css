@@ -1,0 +1,174 @@
+#resumeBackground{
+  background: #2F4F4F;
+  text-align: center;
+}
+#USSoccerInformation{
+  background-image: url(images/usabackground.jpeg);
+  background-size: 100% 100%;
+  text-align: center;
+}
+#mySoccerFamily{
+  text-align: center;
+  background: red;
+}
+#navigation{
+  position: fixed;
+  background-color: yellow;
+  width: 100%;
+  top: 0%;
+}
+#navigation ul{
+  list-style-type: none;
+  overflow: hidden;
+  display: inline-block;
+}
+#navigation ul li{
+  float: left;
+}
+#navigation ul li a{
+  color: white;
+  text-align: center;
+  background-color: purple;
+  padding: 10px;
+  font-size: 32px;
+}
+#creator{
+  font-family: 'Lobster',cursive;
+  text-align: center;
+  font-size: 32px;
+  background: purple;
+  color: white;
+  margin-top: 20px;
+}
+#header{
+  font-family: 'Apple Chancery',cursive;
+  font-size: 3em;
+  color: white;
+  font-style: oblique;
+  font-weight: bold;
+  padding-top: 50px;
+}
+.myHeadshot img{
+  border: 10px solid #87CEFA;
+  margin: 100px;
+}
+.myInfo{
+  font-family: 'Georgia',serif;
+  font-size: 20px;
+  color: brown;
+  padding: 20px;
+}
+.mainBody{
+  margin-top: 50px;
+}
+.mainBody h2{
+  font-family: 'Georgia',serif;
+  color: #8B008B;
+  font-size: 40px;
+}
+.mainBody h3{
+  font-family: 'Comfortaa',cursive;
+  color: darkblue;
+  font-size: 30px;
+}
+.mainBody p,li{
+  font-family: 'VT323',monospace;
+  color: #7FFFD4;
+  font-size: 20px;
+}
+.mainBody ul li{
+  list-style-position: inside;
+  list-style-type: square;
+}
+#USSoccerInformation h2{
+  font-family: 'Sacramento',cursive;
+  font-size: 50px;
+  font-style: italic;
+  color: gold;
+  margin-top: 50px;
+}
+.accomplishments dt{
+  font-family: 'Andale Mono',monospace;
+  font-size: 20px;
+  color: violet;
+  font-weight: bold;
+  padding: 20px;
+}
+.accomplishments dd{
+  font-family: 'American Typewriter',serif;
+  font-size: 16px;
+  color: cyan;
+}
+.accomplishments p{
+  font-family: 'Cantana One',serif;
+  font-size: 30px;
+  color: #F5F5F5;
+  font-weight: bolder;
+  margin-top: 10px;
+}
+.playerRecords h3{
+  font-family: 'Trade Winds';
+  font-size: 24px;
+  font-style: oblique;
+  color: #FFE4E1;
+  padding-top: 10px;
+}
+.playerRecords li{
+  color: #00DA9A;
+  list-style-type: upper-roman;
+  list-style-position: inside;
+  padding-bottom: 10px;
+}
+.memorabilia img{
+  border: 10px solid transparent;
+  border-image: url(images/usaball.jpeg) 25% round;
+  margin-bottom: 15px;
+}
+.memorabilia figcaption{
+  font-family: 'Oxanium',cursive;
+  font-size: 20px;
+  color: snow;
+  padding-bottom: 10px;
+}
+.headerField{
+  margin: 100px;
+  font-family: 'Jim Nightshade',cursive;
+  font-size: 1.5em;
+  color: #00FA9A;
+  margin-top: 20px;
+}
+#rosterHeader{
+  font-family: 'Clicker Script',cursive;
+  font-size: 54px;
+  color: #FFB6C1;
+  font-style: italic;
+}
+.rosterOfTeam{
+  background-image: url(images/illinoistechsoccer.jpeg);
+  background-size: 100% 100%;
+}
+.rosterOfTeam li{
+  font-family: 'Marker Felt',fantasy;
+  list-style-type: circle;
+  font-size: 1.75em;
+  color: #AFEEEE;
+  list-style-position: inside;
+  margin-bottom: 15px;
+}
+#memories h2{
+  font-family: 'Clicker Script',cursive;
+  font-style: italic;
+  font-size: 3.0em;
+  color: blue;
+}
+#memories img{
+  border: 20px solid transparent;
+  border-image: url(images/hawk.png) 30% round;
+  margin-bottom: 15px;
+}
+#memories figcaption{
+  font-family: 'Jim Nightshade',cursive;
+  font-size: 1.5em;
+  color: #4B0082;
+  padding-bottom: 15px;
+}
