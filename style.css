@@ -172,6 +172,9 @@
   color: #4B0082;
   padding-bottom: 15px;
 }
+#theMap{
+  text-align: center;
+}
 .myMap{
   margin-top: 500px;
   height: 700px;
