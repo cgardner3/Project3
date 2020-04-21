@@ -172,8 +172,9 @@
   color: #4B0082;
   padding-bottom: 15px;
 }
-#theMap{
+#themap{
   text-align: center;
+  background: purple;
 }
 .myMap{
   margin-top: 500px;
