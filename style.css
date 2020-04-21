@@ -173,8 +173,9 @@
   padding-bottom: 15px;
 }
 .myMap{
-  height: 500px;
-  width: 500px;
+  margin-top: 500px;
+  height: 700px;
+  width: 700px;
   margin-left: auto;
   margin-right: auto;
 }
