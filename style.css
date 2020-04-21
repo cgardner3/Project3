@@ -172,3 +172,9 @@
   color: #4B0082;
   padding-bottom: 15px;
 }
+.myMap{
+  height: 500px;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
