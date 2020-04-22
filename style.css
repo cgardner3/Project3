@@ -1,4 +1,4 @@
-@media only screen and (max-width: 400px) {
+@media only screen and (min-width: 480px) and (max-width: 1200px) {
   #navigation{
     width: 80%;
     font-size: 50%;
@@ -17,7 +17,7 @@
     background-color: #5F9EA0;
   }
 }
-@media only screen and (max-width: 750px){
+@media only screen and (min-width: 768px) and (max-width: 750px){
   #navigation{
     width: 100%;
     font-size: 64px;
