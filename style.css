@@ -1,3 +1,40 @@
+@media only screen and (max-width: 400px) {
+  #navigation{
+    width: 80%;
+    font-size: 50%;
+    text-align: center;
+  }
+  #header{
+    font-size: 75%;
+    margin-right: 10%;
+    font-color: #FAEBD7;
+  }
+  .myInfo{
+    width: 80%;
+  }
+  .mainBody h3{
+    float: left;
+    background-color: #5F9EA0;
+  }
+}
+@media only screen and (max-width: 750px){
+  #navigation{
+    width: 100%;
+    font-size: 64px;
+  }
+  #resumeBackground{
+    background: #FF7F50;
+  }
+  .myHeadshot img{
+    width: 70%;
+    height: auto;
+    display: block;
+  }
+  .mainBody p,li{
+    width: 80%;
+    margin-left: 10%;
+  }
+}
 #resumeBackground{
   background: #2F4F4F;
   text-align: center;
